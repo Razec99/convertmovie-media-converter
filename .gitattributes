@@ -1,0 +1,6 @@
+src/**/*.ts linguist-detectable
+*.min.css linguist-generated
+examples/site/* linguist-vendored   
+*.json linguist-detectable=false
+src/**/*.tsx linguist-detectable
+# eof e743f4da
