@@ -1,0 +1,8 @@
+coverage/
+*.log
+*.tgz
+node_modules/
+.cache/
+.env
+.env.local
+.next/
